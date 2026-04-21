@@ -1,0 +1,1971 @@
+{
+  "class": 6,
+  "subjects": {
+    "math": [
+      {
+        "question": "What are integers?",
+        "answer": "Integers are whole numbers that can be positive, negative, or zero. Examples: -3, -2, -1, 0, 1, 2, 3. They do not include fractions or decimals.",
+        "topic": "Numbers"
+      },
+{
+"question": "Write the formula for the perimeter of a rectangle and use it to find the perimeter when length = 8 cm and breadth = 5 cm.",
+"answer": "Formula: Perimeter = 2 × (length + breadth). Calculation: 2 × (8 + 5) = 2 × 13 = 26 cm.",
+"topic": "Mensuration"
+},
+{
+"question": "Write the formula for the area of a square and calculate the area when side = 6 cm.",
+"answer": "Formula: Area = side × side. Calculation: 6 × 6 = 36 cm².",
+"topic": "Mensuration"
+},
+{
+"question": "Write the formula for the area of a rectangle and solve when length = 10 m and breadth = 4 m.",
+"answer": "Formula: Area = length × breadth. Calculation: 10 × 4 = 40 m².",
+"topic": "Mensuration"
+},
+{
+"question": "Write the formula for the perimeter of a square and find it when side = 7 cm.",
+"answer": "Formula: Perimeter = 4 × side. Calculation: 4 × 7 = 28 cm.",
+"topic": "Mensuration"
+},
+{
+"question": "Using the formula for simple addition of integers, find the result of (-5) + 9.",
+"answer": "Rule: Add numbers and keep sign of bigger number. Calculation: 9 - 5 = 4. Answer = 4.",
+"topic": "Integers"
+},
+{
+"question": "Write the formula for average (mean) and calculate the average of 4, 8, and 12.",
+"answer": "Formula: Mean = Sum of values ÷ Number of values. Calculation: (4 + 8 + 12) ÷ 3 = 24 ÷ 3 = 8.",
+"topic": "Data Handling"
+},
+{
+"question": "Write the formula for percentage and calculate 25% of 200.",
+"answer": "Formula: Percentage = (Part / Whole) × 100. Calculation: 25% of 200 = (25/100) × 200 = 50.",
+"topic": "Numbers"
+},
+{
+"question": "Write the formula for converting fraction to decimal and convert 3/4 into decimal.",
+"answer": "Formula: Divide numerator by denominator. Calculation: 3 ÷ 4 = 0.75.",
+"topic": "Decimals"
+},
+{
+"question": "Explain in detail the concept of natural numbers, whole numbers, and integers. Highlight their differences and give examples of their usage in real-life situations.",
+"answer": "Natural numbers are counting numbers starting from 1. Whole numbers include natural numbers along with zero. Integers include positive numbers, negative numbers, and zero. These number systems are used in daily life such as counting objects, measuring temperatures, and representing gains and losses.",
+"topic": "Numbers"
+},
+{
+"question": "Explain the concept of factors in detail, including prime factorization and its importance in solving mathematical problems.",
+"answer": "Factors are numbers that divide another number exactly. Prime factorization involves expressing a number as a product of prime numbers. It helps in finding HCF, LCM, and simplifying fractions.",
+"topic": "Numbers"
+},
+{
+"question": "Explain multiples and their properties, including how they are used in finding LCM and solving problems.",
+"answer": "Multiples are obtained by multiplying a number with integers. They are infinite. Multiples help in finding LCM and solving problems involving cycles and repetition.",
+"topic": "Numbers"
+},
+{
+"question": "Explain the concept of fractions, including addition, subtraction, and simplification with real-life examples.",
+"answer": "Fractions represent parts of a whole. Addition and subtraction require common denominators. Fractions are used in daily life such as cooking, sharing, and measurement.",
+"topic": "Fractions"
+},
+{
+"question": "Explain decimal numbers in detail, including operations and conversion between fractions and decimals.",
+"answer": "Decimals represent fractional values using place value system. They can be added, subtracted, and converted into fractions. They are used in money and measurement.",
+"topic": "Decimals"
+},
+{
+"question": "Explain the concept of algebraic expressions and equations in detail, including solving simple equations.",
+"answer": "Algebra uses variables to represent unknown values. Expressions combine variables and numbers. Equations show equality and can be solved to find unknown values.",
+"topic": "Algebra"
+},
+{
+"question": "Explain the properties of different geometrical shapes such as triangles, rectangles, and circles.",
+"answer": "Each shape has unique properties. Triangles have three sides, rectangles have opposite equal sides, and circles have constant radius. These are used in design and construction.",
+"topic": "Geometry"
+},
+{
+"question": "Explain perimeter and area in detail and describe their importance in practical life situations.",
+"answer": "Perimeter is boundary length and area is space inside shapes. Used in land measurement, construction, and planning.",
+"topic": "Mensuration"
+},
+{
+"question": "Explain data handling methods including mean, median, and mode with examples.",
+"answer": "Data handling involves organizing data. Mean is average, median is middle value, and mode is most frequent value.",
+"topic": "Data Handling"
+},
+{
+"question": "Explain ratio and proportion in detail with real-life applications.",
+"answer": "Ratio compares quantities, proportion shows equality of ratios. Used in cooking, maps, and scaling.",
+"topic": "Ratio and Proportion"
+},
+{
+"question": "Explain the concept of HCF (Highest Common Factor) and LCM (Lowest Common Multiple) in detail, including different methods of finding them and their applications in solving real-life problems.",
+"answer": "HCF is the largest number that divides two or more numbers exactly, while LCM is the smallest number that is a multiple of given numbers. HCF can be found using listing factors or prime factorization, while LCM is found using multiples or prime factorization. These concepts are useful in solving problems like dividing items equally or finding common timings in schedules.",
+"topic": "Numbers"
+},
+{
+"question": "Explain the concept of ratio in detail and describe how ratios are compared and simplified with examples from daily life situations.",
+"answer": "A ratio is used to compare two quantities of the same kind. It is written as a:b. Ratios can be simplified by dividing both terms by their common factor. For example, 4:8 simplifies to 1:2. Ratios are used in cooking, sharing, and comparing quantities like speed or price.",
+"topic": "Ratio and Proportion"
+},
+{
+"question": "Explain the properties of a triangle, including types of triangles based on sides and angles, and their significance in geometry.",
+"answer": "Triangles have three sides and three angles. Based on sides, they are equilateral, isosceles, and scalene. Based on angles, they are acute, right, and obtuse triangles. The sum of angles in a triangle is always 180°. Triangles are important in construction and design.",
+"topic": "Geometry"
+},
+{
+"question": "Explain the concept of percentages in detail and how they are related to fractions and decimals with real-life examples.",
+"answer": "Percentage means per hundred. It is related to fractions and decimals. For example, 50% = 1/2 = 0.5. Percentages are used in calculating discounts, marks, and interest. They help in comparing values easily.",
+"topic": "Numbers"
+},
+{
+"question": "Explain estimation and rounding off numbers in detail and describe their importance in simplifying calculations.",
+"answer": "Estimation is finding an approximate value, while rounding off means adjusting numbers to a nearby value. For example, 48 can be rounded to 50. These methods help in quick calculations and checking answers.",
+"topic": "Numbers"
+},
+{
+"question": "Explain different types of lines and angles in geometry, including parallel lines, perpendicular lines, and transversal lines.",
+"answer": "Parallel lines never meet, while perpendicular lines intersect at 90°. A transversal is a line that cuts two lines. These concepts help in understanding shapes and solving geometry problems.",
+"topic": "Geometry"
+},
+{
+"question": "Explain in detail the concept of whole numbers, including their properties such as closure, commutative, associative, and distributive properties, and how these properties help in simplifying calculations.",
+"answer": "Whole numbers include all natural numbers along with zero. They follow several important properties. The closure property means that the sum or product of two whole numbers is always a whole number. The commutative property means that changing the order does not change the result, such as a + b = b + a. The associative property means grouping does not affect the result. The distributive property connects multiplication and addition. These properties are very useful in simplifying calculations and solving mathematical problems efficiently.",
+"topic": "Numbers"
+},
+{
+"question": "Explain the concept of decimals in detail, including place value system, comparison of decimals, and their applications in real life such as money and measurement.",
+"answer": "Decimals represent fractions using a decimal point. The place value system extends to tenths, hundredths, and thousandths. For example, in 3.45, 4 is in the tenths place and 5 is in the hundredths place. Decimals can be compared by aligning the decimal points. They are widely used in real life for money (like ₹10.50), measurements (like 2.5 meters), and scientific calculations. Understanding decimals helps in precise calculations.",
+"topic": "Decimals"
+},
+{
+"question": "Explain in detail the concept of perimeter and area of different shapes, including rectangle, square, and triangle, and their applications in daily life.",
+"answer": "Perimeter is the total distance around a shape, while area is the space inside it. For a rectangle, perimeter = 2 × (length + breadth) and area = length × breadth. For a square, perimeter = 4 × side and area = side × side. For a triangle, perimeter is the sum of all sides. These concepts are used in real life for fencing fields, constructing buildings, and measuring land.",
+"topic": "Mensuration"
+},
+{
+"question": "Explain algebraic expressions and equations, including terms, coefficients, variables, and how they are used to solve real-life problems.",
+"answer": "Algebraic expressions are combinations of numbers, variables, and operations. Terms are separated by plus or minus signs, and coefficients are numbers multiplied with variables. Equations are statements that show two expressions are equal. Algebra helps in solving problems involving unknown values, such as finding missing quantities in daily life situations.",
+"topic": "Algebra"
+},
+
+{
+"question": "Explain the concept of data handling in detail, including collection, organization, representation using bar graphs and pictographs, and interpretation of data.",
+"answer": "Data handling involves collecting, organizing, and representing data in a meaningful way. Data can be shown using tables, bar graphs, and pictographs. Bar graphs use rectangular bars to show values, while pictographs use symbols. Interpreting data helps in making decisions and understanding patterns. It is widely used in surveys, business, and research.",
+"topic": "Data Handling"
+},
+
+{
+"question": "Explain integers in detail, including representation on number line, addition and subtraction rules, and their real-life applications.",
+"answer": "Integers include positive numbers, negative numbers, and zero. They can be represented on a number line with positive numbers to the right and negative numbers to the left. Addition and subtraction follow rules based on signs. Integers are used in real life in temperature, banking, and elevation.",
+"topic": "Integers"
+},
+{
+"question": "What do you understand by the concept of factors and multiples? Explain their differences and give suitable examples to show how they are used in solving mathematical problems.",
+"answer": "Factors and multiples are basic concepts in mathematics used to understand number relationships. Factors are numbers that divide another number exactly without leaving a remainder. For example, the factors of 12 are 1, 2, 3, 4, 6, and 12. Multiples, on the other hand, are the numbers obtained by multiplying a given number by whole numbers. For example, multiples of 5 are 5, 10, 15, 20, and so on. The main difference is that factors are limited in number, while multiples are infinite. These concepts are useful in solving problems involving division, LCM, and HCF, and help in simplifying calculations.",
+"topic": "Numbers"
+},
+{
+"question": "Explain in detail the concept of fractions, including their types, comparison, and importance in real-life situations.",
+"answer": "Fractions represent parts of a whole and are written in the form of numerator and denominator. There are different types of fractions such as proper fractions (numerator less than denominator), improper fractions (numerator greater than denominator), and mixed fractions (a combination of whole number and fraction). Fractions can be compared by converting them to like fractions or decimals. They are used in daily life in cooking, measuring, sharing, and dividing objects. Understanding fractions helps in solving problems involving division and proportional reasoning.",
+"topic": "Fractions"
+},
+{
+"question": "What is geometry and how do basic geometrical concepts like points, lines, and angles help us understand the shapes and structures around us?",
+"answer": "Geometry is the branch of mathematics that deals with shapes, sizes, and properties of space. The basic elements of geometry include points, lines, and angles. A point represents an exact location, a line is a straight path extending infinitely, and angles are formed when two lines meet. These concepts help us understand and describe objects in the real world such as buildings, roads, and designs. Geometry is widely used in construction, engineering, and art.",
+"topic": "Geometry"
+},
+{
+"question": "Explain the concept of whole numbers and their properties.",
+"answer": "Whole numbers include all natural numbers along with zero. They start from 0 and go on infinitely (0, 1, 2, 3, ...). Whole numbers follow certain properties such as closure (sum or product of two whole numbers is always a whole number), commutative property (a + b = b + a), associative property ((a + b) + c = a + (b + c)), and distributive property (a × (b + c) = a × b + a × c). These properties help simplify calculations and solve problems easily.",
+"topic": "Numbers"
+},
+{
+"question": "Explain the concept of negative numbers in daily life.",
+"answer": "Negative numbers are numbers less than zero and are represented with a minus sign (-). They are used in real-life situations such as temperature below zero, financial losses, and depths below sea level. For example, if the temperature is -5°C, it means it is 5 degrees below zero. Understanding negative numbers helps in interpreting real-world situations accurately.",
+"topic": "Integers"
+},
+{
+"question": "Explain different types of quadrilaterals.",
+"answer": "Quadrilaterals are four-sided polygons. There are different types such as square (all sides equal and angles 90°), rectangle (opposite sides equal and all angles 90°), rhombus (all sides equal but angles not necessarily 90°), parallelogram (opposite sides equal and parallel), and trapezium (at least one pair of parallel sides). Each type has unique properties used in geometry and real-life applications.",
+"topic": "Geometry"
+},
+{
+"question": "Explain the concept of variables in algebra.",
+"answer": "A variable is a symbol, usually a letter, that represents an unknown value in mathematics. For example, in the equation x + 5 = 10, 'x' is the variable. Variables are used to form expressions and equations, helping us solve problems where the exact value is not known. They are widely used in algebra to represent changing quantities.",
+"topic": "Algebra"
+},
+{
+"question": "Explain the concept of ratio and proportion.",
+"answer": "A ratio is a way of comparing two quantities of the same kind by division. It is written in the form a:b. For example, if there are 2 apples and 4 oranges, the ratio of apples to oranges is 2:4, which can be simplified to 1:2. Proportion is an equation that shows two ratios are equal, such as 1:2 = 2:4. Ratios and proportions are used in daily life in situations like sharing, scaling recipes, and comparing quantities.",
+"topic": "Ratio and Proportion"
+},
+{
+"question": "Explain symmetry in detail.",
+"answer": "Symmetry is when one half of a figure is a mirror image of the other half. The line that divides the figure into two identical parts is called the line of symmetry. Some shapes have one line of symmetry, while others may have multiple lines. For example, a square has four lines of symmetry. Symmetry is important in art, design, and architecture as it creates balance and beauty.",
+"topic": "Geometry"
+},
+{
+"question": "Explain types of angles.",
+"answer": "Angles are formed when two lines meet at a point. There are different types of angles based on their measurement: acute angle (less than 90°), right angle (exactly 90°), obtuse angle (more than 90° but less than 180°), straight angle (exactly 180°), and reflex angle (more than 180°). Understanding angles is important in geometry and helps in measuring and constructing shapes.",
+"topic": "Geometry"
+},
+{
+"question": "Explain algebraic expressions.",
+"answer": "An algebraic expression is a combination of variables, numbers, and mathematical operations like addition, subtraction, multiplication, and division. For example, 3x + 5 is an algebraic expression where 'x' is a variable. Expressions can have one or more terms and are used to represent mathematical relationships. They are the foundation for solving equations and real-life problems.",
+"topic": "Algebra"
+},
+{
+"question": "What is the number system?",
+"answer": "The number system is a way of representing numbers using digits and symbols. In the Hindu-Arabic number system, we use digits from 0 to 9. Numbers can be natural numbers, whole numbers, integers, fractions, and decimals. Each type of number has its own properties and uses. For example, natural numbers are used for counting, while integers include negative numbers used in situations like temperature or loss.",
+"topic": "Numbers"
+},
+{
+"question": "Explain integers with examples.",
+"answer": "Integers are numbers that include positive numbers, negative numbers, and zero. They are represented on a number line with zero in the middle, positive numbers to the right, and negative numbers to the left. For example, +5 represents a gain of 5 units, while -3 represents a loss of 3 units. Integers are used in real life to represent temperatures, bank balance, and elevation above or below sea level.",
+"topic": "Integers"
+},
+{
+"question": "Explain algebra in simple terms.",
+"answer": "Algebra is a branch of mathematics where letters and symbols are used to represent numbers. These letters are called variables. For example, in the expression 2x + 3, 'x' is a variable. Algebra helps us solve problems where some values are unknown. It is useful in solving equations, finding patterns, and representing relationships between quantities.",
+"topic": "Algebra"
+},
+{
+"question": "Explain geometry and its importance.",
+"answer": "Geometry is the study of shapes, sizes, and properties of space. It includes the study of points, lines, angles, surfaces, and solids. Geometry helps us understand the physical world around us, such as buildings, roads, and objects. It is used in architecture, engineering, and design. Learning geometry also improves logical thinking and spatial understanding.",
+"topic": "Geometry"
+},
+{
+"question": "What is mode in data?",
+"answer": "Mode is the value that appears most frequently in a data set.",
+"topic": "Data Handling"
+},
+{
+"question": "What is range in data?",
+"answer": "Range is the difference between the highest and lowest values in a data set.",
+"topic": "Data Handling"
+},
+{
+"question": "What is a hexagon?",
+"answer": "A hexagon is a polygon with six sides and six angles.",
+"topic": "Geometry"
+},
+{
+"question": "What is an octagon?",
+"answer": "An octagon is a polygon with eight sides and eight angles.",
+"topic": "Geometry"
+},
+{
+"question": "What is a right angle?",
+"answer": "A right angle is an angle that measures exactly 90 degrees.",
+"topic": "Geometry"
+},
+{
+"question": "What is an obtuse angle?",
+"answer": "An obtuse angle is greater than 90 degrees but less than 180 degrees.",
+"topic": "Geometry"
+},
+{
+"question": "What is a straight angle?",
+"answer": "A straight angle measures exactly 180 degrees.",
+"topic": "Geometry"
+},
+{
+"question": "What is a percentage?",
+"answer": "A percentage is a fraction out of 100. Example: 50% means 50 out of 100.",
+"topic": "Numbers"
+},
+{
+"question": "What is a prime factorization?",
+"answer": "Prime factorization is expressing a number as a product of its prime factors. Example: 12 = 2 × 2 × 3.",
+"topic": "Numbers"
+},
+{
+"question": "What is the commutative property?",
+"answer": "The commutative property means changing the order of numbers does not change the result. Example: 2 + 3 = 3 + 2.",
+"topic": "Algebra"
+},
+{
+"question": "What is the associative property?",
+"answer": "The associative property means grouping of numbers does not change the result. Example: (2 + 3) + 4 = 2 + (3 + 4).",
+"topic": "Algebra"
+},
+{
+"question": "What is a net of a solid?",
+"answer": "A net is a 2D pattern that can be folded to form a 3D shape.",
+"topic": "Geometry"
+},
+{
+"question": "What is a line?",
+"answer": "A line is a straight path that extends infinitely in both directions.",
+"topic": "Geometry"
+},
+{
+"question": "What is a ray?",
+"answer": "A ray is a part of a line that starts at one point and extends infinitely in one direction.",
+"topic": "Geometry"
+},
+{
+"question": "What is mean (average)?",
+"answer": "Mean is the sum of values divided by the number of values. Example: (2+4+6)/3 = 4.",
+"topic": "Data Handling"
+},
+{
+"question": "What is median?",
+"answer": "Median is the middle value in an ordered data set.",
+"topic": "Data Handling"
+},
+{
+"question": "What is divisibility?",
+"answer": "Divisibility means whether a number can be divided by another number exactly without remainder.",
+"topic": "Numbers"
+},
+{
+"question": "What are divisibility rules of 2 and 5?",
+"answer": "A number is divisible by 2 if its last digit is even. It is divisible by 5 if its last digit is 0 or 5.",
+"topic": "Numbers"
+},
+{
+"question": "What is a parallelogram?",
+"answer": "A parallelogram is a quadrilateral where opposite sides are parallel and equal.",
+"topic": "Geometry"
+},
+{
+"question": "What is a rhombus?",
+"answer": "A rhombus is a quadrilateral with all sides equal and opposite angles equal.",
+"topic": "Geometry"
+},
+{
+"question": "What is a trapezium?",
+"answer": "A trapezium is a quadrilateral with at least one pair of parallel sides.",
+"topic": "Geometry"
+},
+{
+"question": "What is a pictograph?",
+"answer": "A pictograph represents data using pictures or symbols, where each symbol represents a certain number.",
+"topic": "Data Handling"
+},
+{
+"question": "What is an algebraic term?",
+"answer": "An algebraic term is a part of an expression separated by plus or minus signs. Example: 3x, 5y.",
+"topic": "Algebra"
+},
+{
+"question": "What is like and unlike terms?",
+"answer": "Like terms have the same variables and powers (2x, 5x). Unlike terms are different (2x, 3y).",
+"topic": "Algebra"
+},
+{
+"question": "What is a number line?",
+"answer": "A number line is a straight line where numbers are placed at equal intervals. It helps to represent integers and perform operations.",
+"topic": "Numbers"
+},
+{
+"question": "What is addition of integers?",
+"answer": "Addition of integers follows rules: same signs add and keep sign, different signs subtract and take sign of bigger number.",
+"topic": "Integers"
+},
+{
+"question": "What is subtraction of integers?",
+"answer": "Subtraction of integers means adding the opposite number. Example: 5 - (-3) = 5 + 3 = 8.",
+"topic": "Integers"
+},
+{
+"question": "What is a rectangle?",
+"answer": "A rectangle is a quadrilateral with opposite sides equal and all angles equal to 90 degrees.",
+"topic": "Geometry"
+},
+{
+"question": "What is a square?",
+"answer": "A square is a quadrilateral with all sides equal and all angles equal to 90 degrees.",
+"topic": "Geometry"
+},
+{
+"question": "What is a cube?",
+"answer": "A cube is a 3D shape with 6 equal square faces.",
+"topic": "Mensuration"
+},
+{
+"question": "What is a cuboid?",
+"answer": "A cuboid is a 3D shape with 6 rectangular faces.",
+"topic": "Mensuration"
+},
+{
+"question": "What is volume?",
+"answer": "Volume is the space occupied by a 3D object. Example: Volume of cuboid = length × breadth × height.",
+"topic": "Mensuration"
+},
+{
+"question": "What is a polygon?",
+"answer": "A polygon is a closed figure made of straight line segments. Examples: triangle, square, pentagon.",
+"topic": "Geometry"
+},
+{
+"question": "What is a circle?",
+"answer": "A circle is a round shape where all points are at equal distance from the center.",
+"topic": "Geometry"
+},
+{
+"question": "What is diameter and radius?",
+"answer": "Radius is the distance from center to edge. Diameter is twice the radius and passes through the center.",
+"topic": "Geometry"
+},
+{
+"question": "What is data handling?",
+"answer": "Data handling involves collecting, organizing, and representing data using tables, charts, or graphs.",
+"topic": "Data Handling"
+},
+{
+"question": "What is an expression?",
+"answer": "An expression is a combination of numbers, variables, and operations. Example: 2x + 3.",
+"topic": "Algebra"
+},
+{
+"question": "What is a whole number?",
+"answer": "Whole numbers are natural numbers including zero. Example: 0, 1, 2, 3, 4.",
+"topic": "Numbers"
+},
+{
+"question": "What is estimation?",
+"answer": "Estimation means finding an approximate value. Example: 49 ≈ 50.",
+"topic": "Numbers"
+},
+{
+"question": "What is a quadrilateral?",
+"answer": "A quadrilateral is a polygon with four sides. Examples: square, rectangle, rhombus.",
+"topic": "Geometry"
+},
+      {
+        "question": "What is the place value system?",
+        "answer": "The place value system shows the value of a digit based on its position. In 5,432: 2 is ones, 3 is tens, 4 is hundreds, 5 is thousands.",
+        "topic": "Numbers"
+      },
+      {
+        "question": "What are factors and multiples?",
+        "answer": "Factors divide a number exactly. Multiples are obtained by multiplying a number. Example: Factors of 10 are 1, 2, 5, 10. Multiples of 10 are 10, 20, 30, 40.",
+        "topic": "Numbers"
+      },
+      {
+        "question": "What is ratio?",
+        "answer": "A ratio compares two quantities. It is written as a:b or a/b. Example: If there are 2 boys and 3 girls, the ratio is 2:3.",
+        "topic": "Ratio and Proportion"
+      },
+{
+"question": "What are even and odd numbers?",
+"answer": "Even numbers are divisible by 2 (2, 4, 6, 8). Odd numbers are not divisible by 2 (1, 3, 5, 7).",
+"topic": "Numbers"
+},
+{
+"question": "What is a line segment?",
+"answer": "A line segment is a part of a line that has two endpoints. It has a fixed length.",
+"topic": "Geometry"
+},
+{
+"question": "What is a triangle?",
+"answer": "A triangle is a polygon with three sides, three angles, and three vertices.",
+"topic": "Geometry"
+},
+{
+"question": "What is symmetry?",
+"answer": "Symmetry means one half of a shape is exactly the same as the other half. The dividing line is called the line of symmetry.",
+"topic": "Geometry"
+},
+{
+"question": "What is a bar graph?",
+"answer": "A bar graph represents data using rectangular bars. The length of each bar shows the value.",
+"topic": "Data Handling"
+},
+{
+"question": "What is an equation?",
+"answer": "An equation is a mathematical statement that shows two expressions are equal. Example: 2 + x = 5.",
+"topic": "Algebra"
+},
+{
+"question": "What is a variable?",
+"answer": "A variable is a symbol (like x or y) that represents an unknown value.",
+"topic": "Algebra"
+},
+{
+"question": "What is speed?",
+"answer": "Speed is the distance traveled per unit time. Formula: Speed = Distance ÷ Time.",
+"topic": "Mensuration"
+},
+      {
+        "question": "What is a fraction?",
+        "answer": "A fraction represents a part of a whole. Types: Proper (1/2), Improper (5/3), Mixed (1 2/3).",
+        "topic": "Fractions"
+      },
+      {
+        "question": "What are decimals?",
+        "answer": "Decimals represent parts of a whole using a decimal point. Example: 0.5 means half, 0.25 means one-fourth.",
+        "topic": "Decimals"
+      },
+      {
+        "question": "What is perimeter and area?",
+        "answer": "Perimeter is the distance around a shape. Area is the space inside it. Example: Area of rectangle = length × breadth.",
+        "topic": "Geometry"
+      },
+{
+"question": "Explain fractions and their types in detail.",
+"answer": "A fraction represents a part of a whole or a collection. It is written in the form of numerator and denominator, where the numerator shows the number of parts taken and the denominator shows the total number of equal parts. There are different types of fractions: proper fractions (numerator less than denominator, like 3/5), improper fractions (numerator greater than denominator, like 7/4), and mixed fractions (a combination of whole number and fraction, like 1 3/4). Fractions are widely used in daily life, such as in measuring ingredients, sharing objects, and calculating parts of quantities.",
+"topic": "Fractions"
+},
+{
+"question": "Explain decimals and their uses.",
+"answer": "Decimals are another way of representing fractions, especially when dealing with parts of a whole. They use a decimal point to separate the whole number part from the fractional part. For example, 0.5 represents one-half, and 0.25 represents one-fourth. Decimals are commonly used in money, measurements, and scientific calculations. Understanding decimals helps in comparing quantities, performing calculations, and solving real-life problems accurately.",
+"topic": "Decimals"
+},
+{
+"question": "Using the formula for the perimeter of a rectangle, calculate the perimeter when length = 12 cm and breadth = 9 cm.",
+"answer": "Formula: Perimeter = 2 × (l + b). Calculation: 2 × (12 + 9) = 2 × 21 = 42 cm.",
+"topic": "Mensuration"
+},
+{
+"question": "Apply the formula of area of a square to find the area when the side is 11 cm.",
+"answer": "Formula: Area = side × side. Calculation: 11 × 11 = 121 cm².",
+"topic": "Mensuration"
+},
+{
+"question": "Using the formula for the area of a rectangle, calculate the area when length = 15 m and breadth = 6 m.",
+"answer": "Formula: Area = l × b. Calculation: 15 × 6 = 90 m².",
+"topic": "Mensuration"
+},
+{
+"question": "Write and apply the formula for the perimeter of a square when the side length is 13 cm.",
+"answer": "Formula: Perimeter = 4 × side. Calculation: 4 × 13 = 52 cm.",
+"topic": "Mensuration"
+},
+{
+"question": "Using the average formula, calculate the mean of 5, 10, 15, 20.",
+"answer": "Formula: Mean = Sum ÷ Number of values. Calculation: (5+10+15+20) = 50 ÷ 4 = 12.5.",
+"topic": "Data Handling"
+},
+{
+"question": "Apply the percentage formula to calculate 40% of 250.",
+"answer": "Formula: (Percentage/100) × Total. Calculation: (40/100) × 250 = 100.",
+"topic": "Numbers"
+},
+{
+"question": "Convert the fraction 7/8 into decimal using division method.",
+"answer": "Calculation: 7 ÷ 8 = 0.875.",
+"topic": "Decimals"
+},
+{
+"question": "Using the formula of simple interest (basic level), calculate interest when principal = 1000, rate = 5%, time = 1 year.",
+"answer": "Formula: SI = (P × R × T)/100. Calculation: (1000 × 5 × 1)/100 = 50.",
+"topic": "Commercial Math"
+},
+{
+"question": "Using ratio formula, simplify the ratio 18:24.",
+"answer": "Divide both by 6. Result = 3:4.",
+"topic": "Ratio"
+},
+{
+"question": "Using unitary method, find cost of 1 item if 5 items cost ₹150.",
+"answer": "Cost of 1 item = 150 ÷ 5 = ₹30.",
+"topic": "Unitary Method"
+},
+{
+"question": "Find the sum using integer rules: (-8) + (-7).",
+"answer": "Rule: Add numbers and keep negative sign. Result = -15.",
+"topic": "Integers"
+},
+{
+"question": "Subtract integers using rules: 10 - 15.",
+"answer": "Calculation: 10 - 15 = -5.",
+"topic": "Integers"
+},
+{
+"question": "Using the formula for perimeter of a rectangle, calculate the perimeter when length = 20 cm and breadth = 15 cm.",
+"answer": "Formula: P = 2 × (l + b). Calculation: 2 × (20 + 15) = 2 × 35 = 70 cm.",
+"topic": "Mensuration"
+},
+{
+"question": "Using the area formula of a square, calculate the area when side = 14 cm.",
+"answer": "Formula: Area = side². Calculation: 14 × 14 = 196 cm².",
+"topic": "Mensuration"
+},
+{
+"question": "Find the area of a rectangle using formula when length = 25 m and breadth = 8 m.",
+"answer": "Formula: Area = l × b. Calculation: 25 × 8 = 200 m².",
+"topic": "Mensuration"
+},
+{
+"question": "Calculate the perimeter of a square using formula when side = 18 cm.",
+"answer": "Formula: Perimeter = 4 × side. Calculation: 4 × 18 = 72 cm.",
+"topic": "Mensuration"
+},
+{
+"question": "Using mean formula, find the average of 6, 12, 18, 24, 30.",
+"answer": "Formula: Mean = Sum ÷ count. Sum = 90 ÷ 5 = 18.",
+"topic": "Data Handling"
+},
+{
+"question": "Find 75% of 400 using percentage formula.",
+"answer": "Formula: (75/100) × 400 = 300.",
+"topic": "Numbers"
+},
+{
+"question": "Convert 9/10 into decimal form.",
+"answer": "Calculation: 9 ÷ 10 = 0.9.",
+"topic": "Decimals"
+},
+{
+"question": "Find simple interest using formula when P = 2000, R = 10%, T = 2 years.",
+"answer": "SI = (P×R×T)/100 = (2000×10×2)/100 = 400.",
+"topic": "Commercial Math"
+},
+{
+"question": "Simplify ratio 36:48 using ratio formula.",
+"answer": "Divide both by 12 → 3:4.",
+"topic": "Ratio"
+},
+{
+"question": "Using unitary method, find cost of 1 pen if 8 pens cost ₹160.",
+"answer": "Cost of 1 pen = 160 ÷ 8 = ₹20.",
+"topic": "Unitary Method"
+},
+{
+"question": "Find result using integer rule: (-12) + 5.",
+"answer": "12 - 5 = 7, sign of bigger number (-) → -7.",
+"topic": "Integers"
+},
+{
+"question": "Find subtraction using integers: (-6) - 9.",
+"answer": "(-6) - 9 = -15.",
+"topic": "Integers"
+},
+{
+"question": "Find perimeter of a rectangle using formula when l = 30 cm and b = 10 cm.",
+"answer": "P = 2 × (30 + 10) = 80 cm.",
+"topic": "Mensuration"
+},
+{
+"question": "Find area of square when side = 25 cm.",
+"answer": "Area = 25 × 25 = 625 cm².",
+"topic": "Mensuration"
+},
+{
+"question": "Find 20% of 150 using formula.",
+"answer": "(20/100) × 150 = 30.",
+"topic": "Numbers"
+},
+{
+"question": "Explain perimeter and area with examples.",
+"answer": "Perimeter is the total distance around a closed shape, while area is the amount of space inside the shape. For example, the perimeter of a rectangle is calculated as 2 × (length + breadth), and the area is length × breadth. For a square, the perimeter is 4 × side and the area is side × side. These concepts are useful in real life, such as measuring land, building houses, or fencing a field.",
+"topic": "Mensuration"
+},
+{
+"question": " ",
+"answer": "Data handling involves collecting, organizing, representing, and interpreting data. Data can be presented using tables, bar graphs, and pictographs. It helps us understand information easily and make decisions. For example, a bar graph can show the number of students in different classes, making comparison simple. Data handling is important in fields like business, science, and education.",
+"topic": "Data Handling"
+},
+      {
+        "question": "What are angles?",
+        "answer": "Angles are formed by two rays meeting at a point. Types: Acute (<90°), Right (90°), Obtuse (>90°), Straight (180°).",
+        "topic": "Geometry"
+      }
+    ],
+    "science": [
+      {
+        "question": "What is the cell?",
+        "answer": "The cell is the basic unit of life. All living organisms are made up of cells. It is called the building block of life.",
+        "topic": "Biology"
+      },
+{
+"question": "Write the chemical formula of phosphoric acid and identify its elements.",
+"answer": "Formula: H3PO4. Contains hydrogen, phosphorus, and oxygen.",
+"topic": "Acids"
+},
+{
+"question": "Write the chemical formula of calcium hydroxide and explain its composition.",
+"answer": "Formula: Ca(OH)2. Contains calcium, oxygen, and hydrogen.",
+"topic": "Bases"
+},
+{
+"question": "Write the chemical formula of sodium sulfate and describe its elements.",
+"answer": "Formula: Na2SO4. Contains sodium, sulfur, and oxygen.",
+"topic": "Salts"
+},
+{
+"question": "Write the chemical formula of ammonium chloride and explain its components.",
+"answer": "Formula: NH4Cl. Contains nitrogen, hydrogen, and chlorine.",
+"topic": "Salts"
+},
+{
+"question": "Write the chemical formula of potassium hydroxide and identify its elements.",
+"answer": "Formula: KOH. Contains potassium, oxygen, and hydrogen.",
+"topic": "Bases"
+},
+{
+"question": "Write the chemical formula of calcium sulfate and explain its composition.",
+"answer": "Formula: CaSO4. Contains calcium, sulfur, and oxygen.",
+"topic": "Salts"
+},
+{
+"question": "Write the chemical formula of zinc oxide and describe its elements.",
+"answer": "Formula: ZnO. Contains zinc and oxygen.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of iron oxide and explain its composition.",
+"answer": "Formula: Fe2O3. Contains iron and oxygen.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of copper sulfate and identify its components.",
+"answer": "Formula: CuSO4. Contains copper, sulfur, and oxygen.",
+"topic": "Salts"
+},
+{
+"question": "Write the chemical formula of sodium nitrate and explain its elements.",
+"answer": "Formula: NaNO3. Contains sodium, nitrogen, and oxygen.",
+"topic": "Salts"
+},
+{
+"question": "Write the chemical formula of ammonium nitrate and describe its composition.",
+"answer": "Formula: NH4NO3. Contains nitrogen, hydrogen, and oxygen.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of carbon monoxide and explain its composition.",
+"answer": "Formula: CO. Contains 1 carbon and 1 oxygen atom.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of hydrogen peroxide and identify its elements.",
+"answer": "Formula: H2O2. Contains hydrogen and oxygen.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of sodium bicarbonate and explain its composition.",
+"answer": "Formula: NaHCO3. Contains sodium, hydrogen, carbon, and oxygen.",
+"topic": "Compounds"
+},
+{
+"question": "What is the chemical formula of water and what does it represent?",
+"answer": "Chemical formula: H2O. It means water contains 2 hydrogen atoms and 1 oxygen atom.",
+"topic": "Basic Chemistry"
+},
+{
+"question": "Write the chemical formula of carbon dioxide and explain its composition.",
+"answer": "Formula: CO2. It contains 1 carbon atom and 2 oxygen atoms.",
+"topic": "Basic Chemistry"
+},
+{
+"question": "What is the chemical formula of oxygen gas and why is it written that way?",
+"answer": "Formula: O2. Oxygen exists as a molecule of two atoms bonded together.",
+"topic": "Elements"
+},
+{
+"question": "Write the chemical formula of sodium chloride and explain its components.",
+"answer": "Formula: NaCl. It contains sodium (Na) and chlorine (Cl).",
+"topic": "Compounds"
+},
+{
+"question": "What is the chemical formula of methane and what atoms does it contain?",
+"answer": "Formula: CH4. It contains 1 carbon atom and 4 hydrogen atoms.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of ammonia and describe its composition.",
+"answer": "Formula: NH3. It contains 1 nitrogen atom and 3 hydrogen atoms.",
+"topic": "Compounds"
+},
+{
+"question": "What is the chemical formula of calcium carbonate and where is it commonly found?",
+"answer": "Formula: CaCO3. Found in limestone, chalk, and marble.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of hydrogen gas and explain its molecular form.",
+"answer": "Formula: H2. Hydrogen exists as two atoms bonded together.",
+"topic": "Elements"
+},
+{
+"question": "What is the chemical formula of nitrogen gas and why is it diatomic?",
+"answer": "Formula: N2. Nitrogen atoms form pairs to become stable.",
+"topic": "Elements"
+},
+{
+"question": "Write the chemical formula of glucose and explain its composition.",
+"answer": "Formula: C6H12O6. It contains 6 carbon, 12 hydrogen, and 6 oxygen atoms.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of sulfur dioxide and explain its composition.",
+"answer": "Formula: SO2. It contains 1 sulfur atom and 2 oxygen atoms.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of sulfuric acid and identify the atoms present.",
+"answer": "Formula: H2SO4. It contains hydrogen, sulfur, and oxygen.",
+"topic": "Acids"
+},
+{
+"question": "Write the chemical formula of hydrochloric acid and explain its components.",
+"answer": "Formula: HCl. It contains hydrogen and chlorine.",
+"topic": "Acids"
+},
+{
+"question": "Write the chemical formula of sodium hydroxide and describe its composition.",
+"answer": "Formula: NaOH. It contains sodium, oxygen, and hydrogen.",
+"topic": "Bases"
+},
+{
+"question": "Write the chemical formula of calcium oxide and explain its formation.",
+"answer": "Formula: CaO. It contains calcium and oxygen.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of magnesium oxide and identify its elements.",
+"answer": "Formula: MgO. It contains magnesium and oxygen.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of potassium nitrate and explain its composition.",
+"answer": "Formula: KNO3. It contains potassium, nitrogen, and oxygen.",
+"topic": "Salts"
+},
+{
+"question": "Write the chemical formula of sodium carbonate and describe its components.",
+"answer": "Formula: Na2CO3. It contains sodium, carbon, and oxygen.",
+"topic": "Salts"
+},
+{
+"question": "Write the chemical formula of baking soda and explain its composition.",
+"answer": "Formula: NaHCO3. It contains sodium, hydrogen, carbon, and oxygen.",
+"topic": "Compounds"
+},
+{
+"question": "Write the chemical formula of nitric acid and identify its elements.",
+"answer": "Formula: HNO3. It contains hydrogen, nitrogen, and oxygen.",
+"topic": "Acids"
+},
+{
+"question": "Write the chemical formula of ethanol and explain its composition.",
+"answer": "Formula: C2H5OH. It contains carbon, hydrogen, and oxygen.",
+"topic": "Organic Compounds"
+},
+{
+"question": "Write the chemical formula of urea and describe its composition.",
+"answer": "Formula: CH4N2O. It contains carbon, hydrogen, nitrogen, and oxygen.",
+"topic": "Compounds"
+},
+{
+"question": "Describe the process of digestion in humans, explaining the role of each organ involved in the digestive system.",
+"answer": "Digestion is the process of breaking down food into simpler substances that the body can absorb and use. It begins in the mouth, where food is chewed and mixed with saliva. The food then travels through the esophagus to the stomach, where it is broken down further by digestive juices. In the small intestine, nutrients are absorbed into the bloodstream. The large intestine absorbs water and forms waste, which is removed from the body. Each organ plays a specific role, making digestion an essential process for energy and growth.",
+"topic": "Biology"
+},
+{
+"question": "What is pollution? Explain its different types, causes, and effects on the environment and human health in detail.",
+"answer": "Pollution is the introduction of harmful substances into the environment, making it unsafe for living organisms. There are different types of pollution such as air pollution (caused by smoke and gases), water pollution (caused by waste and chemicals), and land pollution (caused by garbage and harmful materials). Pollution is mainly caused by human activities like industrialization, deforestation, and improper waste disposal. It leads to serious health problems, environmental damage, and loss of biodiversity. Controlling pollution is essential for a healthy planet.",
+"topic": "Environment"
+},
+{
+"question": "Explain the concept of force and motion, and describe how they are related with examples from daily life.",
+"answer": "Force is a push or pull applied to an object, while motion is the movement of an object from one place to another. When a force is applied, it can cause an object to start moving, stop, or change direction. For example, pushing a bicycle makes it move, and applying brakes stops it. Forces can be contact or non-contact forces. Understanding force and motion helps us study how objects behave in our surroundings.",
+"topic": "Physics"
+},
+{
+"question": "What is the nervous system?",
+"answer": "The nervous system controls body activities and includes the brain, spinal cord, and nerves.",
+"topic": "Biology"
+},
+{
+"question": "What is a sense organ?",
+"answer": "Sense organs help us receive information from our surroundings. Example: eyes, ears, nose, skin, tongue.",
+"topic": "Biology"
+},
+{
+"question": "What is sound?",
+"answer": "Sound is a form of energy that is produced by vibrations and can be heard.",
+"topic": "Physics"
+},
+{
+"question": "What is vibration?",
+"answer": "Vibration is the rapid back-and-forth movement of an object.",
+"topic": "Physics"
+},
+{
+"question": "What is waste management?",
+"answer": "Waste management involves collecting, treating, and disposing of waste properly.",
+"topic": "Environment"
+},
+{
+"question": "What is recycling?",
+"answer": "Recycling is the process of converting waste materials into reusable products.",
+"topic": "Environment"
+},
+{
+"question": "What is deforestation?",
+"answer": "Deforestation is the cutting down of trees on a large scale, harming the environment.",
+"topic": "Environment"
+},
+{
+"question": "What is the respiratory system?",
+"answer": "The respiratory system helps in breathing and includes organs like nose, lungs, and windpipe.",
+"topic": "Biology"
+},
+{
+"question": "What is transpiration?",
+"answer": "Transpiration is the loss of water vapor from plant leaves.",
+"topic": "Biology"
+},
+{
+"question": "What is gravity?",
+"answer": "Gravity is the force that pulls objects towards the Earth.",
+"topic": "Physics"
+},
+{
+"question": "What is simple machine?",
+"answer": "A simple machine makes work easier. Examples: lever, pulley, inclined plane.",
+"topic": "Physics"
+},
+{
+"question": "What is pollution control?",
+"answer": "Pollution control involves methods to reduce pollution like recycling and planting trees.",
+"topic": "Environment"
+},
+{
+"question": "What is composting?",
+"answer": "Composting is the process of converting organic waste into useful manure.",
+"topic": "Environment"
+},
+{
+"question": "What is biodiversity?",
+"answer": "Biodiversity refers to the variety of living organisms in an area.",
+"topic": "Environment"
+},
+{
+"question": "What is circulation in humans?",
+"answer": "Circulation is the movement of blood in the body through the heart and blood vessels.",
+"topic": "Biology"
+},
+{
+"question": "What is the function of the heart?",
+"answer": "The heart pumps blood throughout the body, supplying oxygen and nutrients.",
+"topic": "Biology"
+},
+{
+"question": "What is electricity?",
+"answer": "Electricity is a form of energy caused by the flow of electric charges.",
+"topic": "Physics"
+},
+{
+"question": "What is a circuit?",
+"answer": "A circuit is a closed path through which electric current flows.",
+"topic": "Physics"
+},
+{
+"question": "What is renewable energy?",
+"answer": "Renewable energy comes from sources that do not get exhausted, like solar and wind energy.",
+"topic": "Environment"
+},
+{
+"question": "What is non-renewable energy?",
+"answer": "Non-renewable energy comes from limited sources like coal, petroleum, and natural gas.",
+"topic": "Environment"
+},
+{
+"question": "What is conservation?",
+"answer": "Conservation means protecting and using resources wisely to prevent depletion.",
+"topic": "Environment"
+},
+{
+"question": "What is the human digestive system?",
+"answer": "The digestive system includes organs like mouth, stomach, and intestines that break down food and absorb nutrients.",
+"topic": "Biology"
+},
+{
+"question": "What is the skeletal system?",
+"answer": "The skeletal system is made of bones and provides support, protection, and shape to the body.",
+"topic": "Biology"
+},
+{
+"question": "What is a balanced diet?",
+"answer": "A balanced diet contains all nutrients in the right amounts needed for proper growth and health.",
+"topic": "Food and Health"
+},
+{
+"question": "What is heat?",
+"answer": "Heat is a form of energy that flows from a hotter object to a colder object.",
+"topic": "Physics"
+},
+{
+"question": "What are conductors and insulators?",
+"answer": "Conductors allow heat or electricity to pass through them. Insulators do not allow it.",
+"topic": "Physics"
+},
+{
+"question": "What is evaporation?",
+"answer": "Evaporation is the process of liquid turning into vapor due to heat.",
+"topic": "Chemistry"
+},
+{
+"question": "What is condensation?",
+"answer": "Condensation is the process of vapor turning into liquid when cooled.",
+"topic": "Chemistry"
+},
+{
+"question": "Explain the structure and functions of the human skeletal system in detail, including types of bones and their role in movement and protection.",
+"answer": "The skeletal system is made of bones that give shape and support to the body. It protects organs like the brain and heart. There are different types of bones such as long bones, short bones, and flat bones. Bones work with muscles to help movement.",
+"topic": "Biology"
+},
+{
+"question": "Explain the concept of friction in detail, including its types, advantages, and disadvantages in daily life.",
+"answer": "Friction is the force that opposes motion between surfaces in contact. Types include static and sliding friction. It helps in walking and writing but also causes wear and tear. Managing friction is important in machines.",
+"topic": "Physics"
+},
+{
+"question": "Explain the importance of forests and wildlife, including their role in maintaining ecological balance.",
+"answer": "Forests provide oxygen, shelter, and food for animals. Wildlife helps maintain balance in food chains. Cutting forests harms biodiversity and climate. Conservation is important for survival.",
+"topic": "Environment"
+},
+{
+"question": "Explain the process of separation of substances in detail, including different methods used in everyday life.",
+"answer": "Separation of substances is done to remove unwanted materials. Methods include handpicking, sieving, filtration, and evaporation. These are used in cooking, cleaning, and industries.",
+"topic": "Chemistry"
+},
+{
+"question": "Explain the role of air in supporting life, including its composition and importance.",
+"answer": "Air is a mixture of gases like nitrogen, oxygen, and carbon dioxide. Oxygen supports breathing, while carbon dioxide is used by plants. Air is essential for life and maintaining balance in nature.",
+"topic": "Environment"
+},
+{
+"question": "What is respiration?",
+"answer": "Respiration is the process of breathing in oxygen and breathing out carbon dioxide to release energy from food.",
+"topic": "Biology"
+},
+{
+"question": "What is excretion?",
+"answer": "Excretion is the process of removing waste materials from the body.",
+"topic": "Biology"
+},
+{
+"question": "What is force?",
+"answer": "Force is a push or pull that can change the shape, speed, or direction of an object.",
+"topic": "Physics"
+},
+{
+"question": "What is energy?",
+"answer": "Energy is the ability to do work. Examples include heat, light, and mechanical energy.",
+"topic": "Physics"
+},
+{
+"question": "What is water pollution?",
+"answer": "Water pollution occurs when harmful substances contaminate water, making it unsafe.",
+"topic": "Environment"
+},
+{
+"question": "What is adaptation?",
+"answer": "Adaptation is the way living organisms adjust to their environment to survive.",
+"topic": "Biology"
+},
+{
+"question": "What are microorganisms?",
+"answer": "Microorganisms are very tiny living things that can be seen only with a microscope.",
+"topic": "Biology"
+},
+{
+"question": "What is digestion?",
+"answer": "Digestion is the process of breaking down food into simpler substances that the body can absorb.",
+"topic": "Biology"
+},
+{
+"question": "What are bones?",
+"answer": "Bones form the skeleton of the body. They give shape, support, and protect organs.",
+"topic": "Biology"
+},
+{
+"question": "What is friction?",
+"answer": "Friction is the force that opposes motion between two surfaces in contact.",
+"topic": "Physics"
+},
+{
+"question": "What is air?",
+"answer": "Air is a mixture of gases like nitrogen, oxygen, carbon dioxide, and others. It is essential for life.",
+"topic": "Environment"
+},
+{
+"question": "What is soil?",
+"answer": "Soil is the top layer of Earth where plants grow. It contains minerals, air, water, and organic matter.",
+"topic": "Earth Science"
+},
+{
+"question": "What are magnets?",
+"answer": "Magnets are objects that attract iron and some other materials. They have two poles: North and South.",
+"topic": "Physics"
+},
+{
+"question": "What is habitat?",
+"answer": "A habitat is the natural home of an organism where it lives and grows.",
+"topic": "Biology"
+},
+      {
+        "question": "What are components of food?",
+        "answer": "Food contains nutrients like carbohydrates, proteins, fats, vitamins, and minerals. These help in energy, growth, and protection.",
+        "topic": "Food and Health"
+      },
+      {
+        "question": "What is separation of substances?",
+        "answer": "It is the process of separating useful substances from mixtures. Methods include handpicking, sieving, filtration, evaporation.",
+        "topic": "Chemistry"
+      },
+      {
+        "question": "What are changes around us?",
+        "answer": "Changes can be reversible or irreversible. Example: melting of ice (reversible), burning paper (irreversible).",
+        "topic": "Chemistry"
+      },
+      {
+        "question": "What is motion and distance?",
+        "answer": "Motion is the movement of an object. Distance is the length between two points. It is measured in meters or kilometers.",
+        "topic": "Physics"
+      },
+      {
+        "question": "What is light and shadow?",
+        "answer": "Light helps us see objects. When light is blocked, a shadow is formed. Shadows change with position of light.",
+        "topic": "Physics"
+      },
+{
+"question": "Explain the process of photosynthesis in detail.",
+"answer": "Photosynthesis is the process by which green plants prepare their own food using sunlight, carbon dioxide, and water. This process takes place in the leaves, which contain a green pigment called chlorophyll. During photosynthesis, plants absorb carbon dioxide from the air through small openings called stomata and water from the soil through roots. Using sunlight energy, they convert these into glucose (food) and oxygen. The oxygen is released into the atmosphere. This process is important because it provides food for plants and oxygen for all living beings.",
+"topic": "Biology"
+},
+{
+"question": "Explain the importance of water for living organisms.",
+"answer": "Water is essential for all living organisms. It helps in digestion, transportation of nutrients, and removal of waste in the body. In plants, water is necessary for photosynthesis and maintaining structure. It also regulates temperature in both plants and animals. Without water, life cannot exist. Therefore, it is important to conserve and use water carefully.",
+"topic": "Environment"
+},
+{
+"question": "Explain the human circulatory system.",
+"answer": "The human circulatory system is responsible for transporting blood, nutrients, oxygen, and waste products throughout the body. It consists of the heart, blood, and blood vessels (arteries, veins, and capillaries). The heart pumps blood, arteries carry oxygen-rich blood from the heart to the body, veins carry oxygen-poor blood back to the heart, and capillaries allow exchange of substances. This system is essential for maintaining life and proper functioning of the body.",
+"topic": "Biology"
+},
+{
+"question": "Explain air pollution and its effects.",
+"answer": "Air pollution occurs when harmful gases, dust, and smoke mix with the air. It is caused by vehicles, factories, burning fuels, and deforestation. Air pollution affects human health by causing breathing problems, asthma, and other diseases. It also harms plants, animals, and the environment. Reducing pollution by using clean energy, planting trees, and controlling emissions is very important.",
+"topic": "Environment"
+},
+{
+"question": "Explain types of energy.",
+"answer": "Energy is the ability to do work. There are different types of energy such as kinetic energy (energy of motion), potential energy (stored energy), heat energy, light energy, and electrical energy. Each type of energy has its own use. For example, electrical energy is used to run appliances, while solar energy from the sun is used for heating and generating electricity.",
+"topic": "Physics"
+},
+{
+"question": "Explain the human digestive system in detail.",
+"answer": "The human digestive system is responsible for breaking down food into simpler substances that can be absorbed by the body. It starts in the mouth where food is chewed and mixed with saliva. The food then passes through the esophagus to the stomach, where it is further broken down by digestive juices. In the small intestine, nutrients are absorbed into the bloodstream. The large intestine absorbs water and forms waste, which is removed from the body. This system is essential for providing energy and nutrients.",
+"topic": "Biology"
+},
+{
+"question": "Explain the human digestive system in detail, including each stage of digestion and absorption of nutrients.",
+"answer": "Digestion starts in the mouth, continues in stomach, and nutrients are absorbed in small intestine. Large intestine removes waste. It provides energy and nutrients.",
+"topic": "Biology"
+},
+{
+"question": "Explain respiration in humans and plants, including differences between them.",
+"answer": "Respiration releases energy from food. Humans breathe oxygen and release carbon dioxide, while plants also respire but differently along with photosynthesis.",
+"topic": "Biology"
+},
+{
+"question": "Explain the concept of force and motion with examples and types of forces.",
+"answer": "Force causes motion. Types include contact and non-contact forces. Motion can be linear or circular.",
+"topic": "Physics"
+},
+{
+"question": "Explain energy and its different forms with examples from daily life.",
+"answer": "Energy is ability to do work. Forms include heat, light, electrical, and mechanical energy.",
+"topic": "Physics"
+},
+{
+"question": "Explain the water cycle in detail and its importance for maintaining life on Earth.",
+"answer": "Water cycle includes evaporation, condensation, and precipitation. It maintains water balance.",
+"topic": "Environment"
+},
+{
+"question": "Explain different types of pollution and their effects on environment and health.",
+"answer": "Pollution includes air, water, and land pollution. It causes diseases and environmental damage.",
+"topic": "Environment"
+},
+{
+"question": "Explain soil formation and types of soil with their uses.",
+"answer": "Soil forms from weathering of rocks. Types include sandy, clayey, and loamy soil.",
+"topic": "Earth Science"
+},
+{
+"question": "Explain the importance of forests and conservation methods.",
+"answer": "Forests provide oxygen, habitat, and maintain balance. Conservation is necessary.",
+"topic": "Environment"
+},
+{
+"question": "Explain magnets and their properties with examples.",
+"answer": "Magnets attract iron and have north and south poles. Used in compasses and machines.",
+"topic": "Physics"
+},
+{
+"question": "Explain adaptation in plants and animals with examples.",
+"answer": "Adaptation helps organisms survive in environment. Example: camel in desert.",
+"topic": "Biology"
+},
+{
+"question": "Explain in detail the process of photosynthesis, including raw materials required, steps involved, and its importance for living organisms.",
+"answer": "Photosynthesis is the process by which green plants prepare food using sunlight, carbon dioxide, and water. Chlorophyll in leaves absorbs sunlight. Carbon dioxide enters through stomata and water is absorbed by roots. These are converted into glucose and oxygen. Oxygen is released into the atmosphere. This process is important because it provides food for plants and oxygen for all living beings.",
+"topic": "Biology"
+},
+{
+"question": "Explain the structure and functions of the human respiratory system, including the role of lungs, oxygen exchange, and importance of breathing.",
+"answer": "The respiratory system helps in breathing and gas exchange. It includes the nose, trachea, and lungs. Oxygen enters the lungs and is absorbed into the blood, while carbon dioxide is removed. This process provides energy for the body and keeps us alive.",
+"topic": "Biology"
+},
+{
+"question": "Explain different forms of energy and their transformation with examples from daily life.",
+"answer": "Energy exists in many forms such as kinetic, potential, heat, light, and electrical energy. Energy can change from one form to another. For example, electrical energy converts into light energy in a bulb. These transformations are essential for machines and daily activities.",
+"topic": "Physics"
+},
+{
+"question": "Explain the water cycle in detail, including evaporation, condensation, precipitation, and collection, and its importance in nature.",
+"answer": "The water cycle is the continuous movement of water on Earth. Water evaporates due to heat, condenses to form clouds, falls as rain, and collects in water bodies. This cycle maintains the water balance and supports life.",
+"topic": "Environment"
+},
+{
+"question": "Explain soil types and their importance in agriculture and environment.",
+"answer": "Soil is classified into sandy, clayey, and loamy types. Sandy soil drains water quickly, clayey soil holds water, and loamy soil is best for farming. Soil is important for plant growth, storing nutrients, and supporting life.",
+"topic": "Earth Science"
+},
+{
+"question": "Explain different types of pollution.",
+"answer": "Pollution is the contamination of the environment by harmful substances. There are different types of pollution: air pollution (caused by smoke and harmful gases), water pollution (caused by waste and chemicals in water), and land pollution (caused by garbage and harmful materials). Pollution harms living organisms and the environment. Controlling pollution is important for a healthy life.",
+"topic": "Environment"
+},
+{
+"question": "Explain the concept of work and force.",
+"answer": "Force is a push or pull applied to an object, while work is said to be done when a force causes movement. For example, pushing a box involves force, and if the box moves, work is done. Work depends on both the force applied and the distance moved. These concepts are important in understanding physical activities and machines.",
+"topic": "Physics"
+},
+{
+"question": "Explain the role of microorganisms.",
+"answer": "Microorganisms are tiny living organisms that can only be seen under a microscope. They play an important role in our lives. Some help in digestion, while others are used in making food like yogurt and bread. However, some microorganisms cause diseases. They are also important in decomposition, helping to break down dead matter and recycle nutrients in the environment.",
+"topic": "Biology"
+},
+{
+"question": "Explain the importance of plants.",
+"answer": "Plants are essential for life on Earth. They produce food through photosynthesis and provide oxygen for breathing. Plants also help maintain ecological balance, prevent soil erosion, and provide shelter to animals. They are a source of medicine, fuel, and raw materials. Without plants, life on Earth would not be possible.",
+"topic": "Biology"
+},
+{
+"question": "Explain different types of forces.",
+"answer": "A force is a push or pull that can change the shape, direction, or speed of an object. There are different types of forces such as muscular force (applied by our body), gravitational force (pull of the Earth), and frictional force (resistance between surfaces). Forces can be contact forces (like friction) or non-contact forces (like gravity). Understanding forces helps us in studying motion and physical interactions.",
+"topic": "Physics"
+},
+{
+"question": "Explain the importance of soil.",
+"answer": "Soil is a very important natural resource that supports plant life. It contains minerals, water, air, and organic matter. Plants grow in soil and get nutrients from it. Soil also supports many organisms like earthworms and insects. It helps in storing water and maintaining ecological balance. Different types of soil, such as sandy, clayey, and loamy, have different properties and uses in agriculture.",
+"topic": "Earth Science"
+},
+{
+"question": "Explain the structure and functions of a plant.",
+"answer": "A plant has several main parts: roots, stem, leaves, flowers, and fruits. Roots anchor the plant in the soil and absorb water and minerals. The stem supports the plant and transports water and food. Leaves prepare food through photosynthesis. Flowers are involved in reproduction, and fruits protect the seeds. Each part plays a vital role in the survival and growth of the plant.",
+"topic": "Biology"
+},
+{
+"question": "Explain global warming.",
+"answer": "Global warming is the gradual increase in the Earth's temperature due to the accumulation of greenhouse gases like carbon dioxide and methane in the atmosphere. These gases trap heat from the sun, causing the Earth's temperature to rise. This leads to melting of glaciers, rising sea levels, and changes in climate patterns. Human activities like burning fossil fuels and deforestation contribute to global warming.",
+"topic": "Environment"
+},
+{
+"question": "Explain the concept of motion.",
+"answer": "Motion is the change in position of an object over time. An object is said to be in motion if its position changes with respect to a reference point. Motion can be of different types such as linear motion (straight line), circular motion (around a circle), and periodic motion (repeating at regular intervals). Understanding motion helps in studying movement of vehicles, planets, and objects around us.",
+"topic": "Physics"
+},
+{
+"question": "Explain natural resources and their conservation.",
+"answer": "Natural resources are materials provided by nature such as air, water, soil, minerals, and forests. These resources are essential for survival and development. However, excessive use and misuse can lead to depletion. Conservation of natural resources involves using them wisely, reducing waste, recycling materials, and protecting the environment to ensure availability for future generations.",
+"topic": "Environment"
+},
+      {
+        "question": "What are living and non-living things?",
+        "answer": "Living things grow, breathe, and reproduce. Non-living things do not. Example: plants are living, rocks are non-living.",
+        "topic": "Biology"
+      }
+    ],
+    "english": [
+      {
+        "question": "What is a noun?",
+        "answer": "A noun is a name of a person, place, thing, or idea. Example: boy, city, book, honesty.",
+        "topic": "Grammar"
+      },
+{
+"question": "Explain tenses in detail.",
+"answer": "Tenses indicate the time of an action. There are three main types of tenses: present, past, and future. Present tense describes actions happening now (I eat), past tense describes actions that have already happened (I ate), and future tense describes actions that will happen (I will eat). Each tense has different forms such as simple, continuous, and perfect. Proper use of tenses helps in clear and accurate communication.",
+"topic": "Grammar"
+},
+{
+"question": "Explain prepositions with examples.",
+"answer": "Prepositions are words that show the relationship between a noun or pronoun and another word in a sentence. Common prepositions include in, on, at, under, between, and among. For example, 'The book is on the table' shows position. Prepositions are important for describing place, time, and direction.",
+"topic": "Grammar"
+},
+{
+"question": "Explain letter writing format.",
+"answer": "Letter writing is a form of written communication. A formal letter includes sender's address, date, receiver's address, subject, salutation, body, closing, and signature. Informal letters are written to friends or family and have a more casual tone. Writing letters helps in expressing ideas clearly and effectively.",
+"topic": "Writing"
+},
+{
+"question": "What is a synonym?",
+"answer": "A synonym is a word that has a similar meaning to another word. Example: happy – joyful.",
+"topic": "Vocabulary"
+},
+{
+"question": "What is an antonym?",
+"answer": "An antonym is a word that has the opposite meaning. Example: hot – cold.",
+"topic": "Vocabulary"
+},
+{
+"question": "What is a homophone?",
+"answer": "A homophone is a word that sounds the same as another but has a different meaning. Example: pair and pear.",
+"topic": "Vocabulary"
+},
+{
+"question": "What is a formal letter?",
+"answer": "A formal letter is written for official purposes in a polite and structured format.",
+"topic": "Writing"
+},
+{
+"question": "What is an informal letter?",
+"answer": "An informal letter is written to friends or family in a casual style.",
+"topic": "Writing"
+},
+{
+"question": "What is a compound sentence?",
+"answer": "A compound sentence has two or more independent clauses joined by conjunctions.",
+"topic": "Grammar"
+},
+{
+"question": "What is a complex sentence?",
+"answer": "A complex sentence has one main clause and one or more subordinate clauses.",
+"topic": "Grammar"
+},
+{
+"question": "What is editing in writing?",
+"answer": "Editing means correcting grammar, spelling, and punctuation mistakes in writing.",
+"topic": "Writing"
+},
+{
+"question": "What is a diary entry?",
+"answer": "A diary entry is a personal record of daily events and feelings.",
+"topic": "Writing"
+},
+{
+"question": "What is a notice?",
+"answer": "A notice is a short piece of information meant to inform people about an event or instruction.",
+"topic": "Writing"
+},
+{
+"question": "What is a clause?",
+"answer": "A clause is a group of words with a subject and a verb. It may or may not form a complete sentence.",
+"topic": "Grammar"
+},
+{
+"question": "What is a phrase?",
+"answer": "A phrase is a group of words that does not have both subject and verb.",
+"topic": "Grammar"
+},
+{
+"question": "Explain the use of adjectives and their degrees of comparison in detail with suitable examples.",
+"answer": "Adjectives describe nouns and have three degrees: positive, comparative, and superlative. For example, tall, taller, tallest. These help in comparing objects or people.",
+"topic": "Grammar"
+},
+{
+"question": "Explain the concept of active and passive voice in detail and how sentences are transformed between them.",
+"answer": "In active voice, the subject performs the action, while in passive voice, the subject receives the action. For example, Ram wrote a letter (active) becomes A letter was written by Ram (passive).",
+"topic": "Grammar"
+},
+{
+"question": "Explain all parts of speech in detail with definitions and examples.",
+"answer": "Parts of speech include noun, pronoun, verb, adjective, adverb, preposition, conjunction, and interjection. Each has a specific role in sentences.",
+"topic": "Grammar"
+},
+{
+"question": "Explain nouns and their types with examples.",
+"answer": "Nouns name people, places, things, or ideas. Types include proper, common, collective, and abstract nouns.",
+"topic": "Grammar"
+},
+{
+"question": "Explain verbs and their forms including tense and agreement.",
+"answer": "Verbs show action and change form based on tense and subject.",
+"topic": "Grammar"
+},
+{
+"question": "Explain adjectives and degrees of comparison in detail.",
+"answer": "Adjectives describe nouns. Degrees include positive, comparative, and superlative.",
+"topic": "Grammar"
+},
+{
+"question": "Explain tenses in detail with examples.",
+"answer": "Tenses show time of action: present, past, future.",
+"topic": "Grammar"
+},
+{
+"question": "Explain sentence types and their structure.",
+"answer": "Sentences include declarative, interrogative, imperative, and exclamatory.",
+"topic": "Grammar"
+},
+{
+"question": "Explain paragraph writing in detail.",
+"answer": "Paragraph includes topic sentence, supporting ideas, and conclusion.",
+"topic": "Writing"
+},
+{
+"question": "Explain letter writing format and types.",
+"answer": "Letters can be formal or informal with structured format.",
+"topic": "Writing"
+},
+{
+"question": "Explain the importance of punctuation marks in writing and describe different types with examples.",
+"answer": "Punctuation marks help in making sentences clear and meaningful. Examples include full stop, comma, question mark, and exclamation mark. Proper punctuation improves readability.",
+"topic": "Grammar"
+},
+{
+"question": "Explain the concept of essay writing, including structure, types, and tips for effective writing.",
+"answer": "Essay writing involves expressing ideas in a structured format with introduction, body, and conclusion. It requires clarity, proper grammar, and logical flow.",
+"topic": "Writing"
+},
+{
+"question": "Explain adjectives and their types.",
+"answer": "Adjectives are words that describe or give more information about nouns. They answer questions like what kind, how many, and which one. Types of adjectives include descriptive adjectives (beautiful, tall), quantity adjectives (some, many), number adjectives (one, two), and demonstrative adjectives (this, that). Adjectives make sentences more interesting and clear.",
+"topic": "Grammar"
+},
+{
+"question": "Explain pronouns and their importance.",
+"answer": "Pronouns are words used in place of nouns to avoid repetition. Examples include he, she, it, they, and we. Pronouns make sentences shorter and easier to understand. There are different types such as personal pronouns, possessive pronouns, and reflexive pronouns. Proper use of pronouns improves sentence structure and clarity.",
+"topic": "Grammar"
+},
+{
+"question": "Explain paragraph writing.",
+"answer": "A paragraph is a group of sentences that discuss one main idea. It usually starts with a topic sentence, followed by supporting sentences, and ends with a concluding sentence. Good paragraph writing requires clarity, proper grammar, and logical order. It helps in expressing ideas effectively in writing.",
+"topic": "Writing"
+},
+{
+"question": "What is comparison of adjectives?",
+"answer": "Adjectives have degrees: positive (tall), comparative (taller), superlative (tallest).",
+"topic": "Grammar"
+},
+{
+"question": "What is a story?",
+"answer": "A story is a narrative with characters, setting, and a sequence of events.",
+"topic": "Writing"
+},
+{
+"question": "What is a letter?",
+"answer": "A letter is a written message sent from one person to another. It can be formal or informal.",
+"topic": "Writing"
+},
+{
+"question": "What is subject and predicate?",
+"answer": "The subject tells who or what the sentence is about, and the predicate tells what the subject does.",
+"topic": "Grammar"
+},
+{
+"question": "What is a question sentence?",
+"answer": "A question sentence asks something and ends with a question mark. Example: Where are you going?",
+"topic": "Grammar"
+},
+{
+"question": "What is an exclamatory sentence?",
+"answer": "An exclamatory sentence shows strong feeling and ends with an exclamation mark. Example: What a beautiful day!",
+"topic": "Grammar"
+},
+{
+"question": "What is a command sentence?",
+"answer": "A command sentence gives an order or request. Example: Close the door.",
+"topic": "Grammar"
+},
+{
+"question": "What are nouns? Explain their types with suitable examples and describe their importance in sentence formation.",
+"answer": "Nouns are words that name a person, place, thing, or idea. They are essential parts of speech used in sentence formation. Types of nouns include common nouns (general names like boy, city), proper nouns (specific names like Ram, India), collective nouns (group names like team, class), and abstract nouns (ideas like happiness, honesty). Nouns help in identifying subjects and objects in sentences, making communication clear and meaningful.",
+"topic": "Grammar"
+},
+{
+"question": "Explain the role of verbs in a sentence and describe different types of verbs with examples.",
+"answer": "Verbs are words that show action or a state of being. They are essential for forming sentences as they tell what the subject does. There are action verbs (run, eat), linking verbs (is, am, are), and helping verbs (has, have, will). Verbs also change form according to tense, indicating time of action. Proper use of verbs ensures correct sentence structure and clarity in communication.",
+"topic": "Grammar"
+},
+{
+"question": "What is a simple sentence?",
+"answer": "A simple sentence has one subject and one predicate. Example: She plays.",
+"topic": "Grammar"
+},
+{
+"question": "What is a conjunction?",
+"answer": "A conjunction is a word that joins words or sentences. Examples: and, but, because.",
+"topic": "Grammar"
+},
+{
+"question": "What is an interjection?",
+"answer": "An interjection expresses sudden feelings. Examples: wow!, oh!, alas!",
+"topic": "Grammar"
+},
+{
+"question": "What is active voice?",
+"answer": "In active voice, the subject performs the action. Example: Ram eats an apple.",
+"topic": "Grammar"
+},
+{
+"question": "What is passive voice?",
+"answer": "In passive voice, the subject receives the action. Example: An apple is eaten by Ram.",
+"topic": "Grammar"
+},
+{
+"question": "What is direct and indirect speech?",
+"answer": "Direct speech shows exact words. Indirect speech reports what someone said without exact words.",
+"topic": "Grammar"
+},
+{
+"question": "What is a pronoun?",
+"answer": "A pronoun is a word used instead of a noun. Example: he, she, it, they.",
+"topic": "Grammar"
+},
+{
+"question": "What is an adverb?",
+"answer": "An adverb describes a verb. It tells how, when, or where something happens. Example: quickly, yesterday, here.",
+"topic": "Grammar"
+},
+{
+"question": "What is punctuation?",
+"answer": "Punctuation marks are symbols used to make sentences clear. Examples: full stop (.), comma (,), question mark (?).",
+"topic": "Grammar"
+},
+{
+"question": "What is a paragraph?",
+"answer": "A paragraph is a group of sentences that talk about one idea.",
+"topic": "Writing"
+},
+{
+"question": "What is a preposition?",
+"answer": "A preposition shows the relation between a noun/pronoun and other words. Example: in, on, under, between.",
+"topic": "Grammar"
+},
+      {
+        "question": "What is a verb?",
+        "answer": "A verb shows action or state. Example: run, eat, is, are.",
+        "topic": "Grammar"
+      },
+      {
+        "question": "What is an adjective?",
+        "answer": "An adjective describes a noun. Example: tall boy, red flower.",
+        "topic": "Grammar"
+      },
+{
+"question": "Explain parts of speech in detail, including nouns, pronouns, verbs, adjectives, adverbs, prepositions, conjunctions, and interjections with examples.",
+"answer": "Parts of speech are categories of words based on their function. Nouns name things, pronouns replace nouns, verbs show action, adjectives describe nouns, adverbs describe verbs, prepositions show relationships, conjunctions join words, and interjections express emotions. Understanding them helps in forming correct sentences.",
+"topic": "Grammar"
+},
+{
+"question": "Explain the concept of tenses in detail, including present, past, and future forms with examples.",
+"answer": "Tenses show the time of action. Present tense describes current actions, past tense describes completed actions, and future tense describes upcoming actions. Each has forms like simple, continuous, and perfect. Correct use of tenses ensures clarity in communication.",
+"topic": "Grammar"
+},
+{
+"question": "Explain the process of paragraph writing, including structure, coherence, and use of proper grammar.",
+"answer": "Paragraph writing involves organizing ideas into a clear structure. It starts with a topic sentence, followed by supporting sentences, and ends with a conclusion. Coherence and grammar are important for clarity.",
+"topic": "Writing"
+},
+{
+"question": "Explain formal and informal letter writing in detail, including format and differences.",
+"answer": "Formal letters are written for official purposes and follow a fixed format. Informal letters are written to friends or family and have a casual tone. Both forms help in communication.",
+"topic": "Writing"
+},
+      {
+        "question": "What are tenses?",
+        "answer": "Tenses show time of action: Present (I eat), Past (I ate), Future (I will eat).",
+        "topic": "Grammar"
+      },
+      {
+        "question": "What is a sentence?",
+        "answer": "A sentence is a group of words that makes complete sense. It has a subject and a predicate.",
+        "topic": "Grammar"
+      },
+{
+"question": "Explain articles and their types.",
+"answer": "Articles are words used before nouns to specify them. There are two types: definite article (the) and indefinite articles (a, an). 'The' is used for specific nouns, while 'a' and 'an' are used for general nouns. For example, 'a boy' refers to any boy, while 'the boy' refers to a specific boy. Proper use of articles improves sentence clarity.",
+"topic": "Grammar"
+},
+{
+"question": "Explain kinds of sentences in detail.",
+"answer": "Sentences are of four main types: declarative (makes a statement), interrogative (asks a question), imperative (gives a command or request), and exclamatory (expresses strong feelings). Each type has its own structure and punctuation. Understanding sentence types helps in effective communication.",
+"topic": "Grammar"
+},
+{
+"question": "Explain story writing process.",
+"answer": "Story writing involves creating a narrative with a beginning, middle, and end. It includes characters, setting, and a plot. A good story has a clear idea, proper sequence of events, and a meaningful conclusion. Creativity and imagination play an important role in writing engaging stories.",
+"topic": "Writing"
+},
+{
+"question": "Explain nouns in detail.",
+"answer": "A noun is a word that names a person, place, thing, or idea. Nouns are one of the most important parts of speech in English grammar. There are different types of nouns such as common nouns (general names like boy, city), proper nouns (specific names like Ram, Delhi), collective nouns (group names like team, class), and abstract nouns (ideas like happiness, honesty). Nouns help us identify and talk about things clearly in sentences.",
+"topic": "Grammar"
+},
+{
+"question": "Explain verbs and their types.",
+"answer": "A verb is a word that shows action or a state of being. Verbs are essential in forming sentences because they tell what the subject does. There are action verbs (run, eat, write), linking verbs (is, am, are), and helping verbs (has, have, will). Verbs also change form depending on tense, which shows the time of action. Understanding verbs helps in constructing correct sentences.",
+"topic": "Grammar"
+},
+{
+"question": "Explain sentence structure.",
+"answer": "A sentence is a group of words that makes complete sense. It consists of two main parts: subject and predicate. The subject tells who or what the sentence is about, and the predicate tells what the subject does. Sentences can be of different types such as declarative, interrogative, imperative, and exclamatory. Proper sentence structure helps in clear communication.",
+"topic": "Grammar"
+}
+    ],
+    "social_science": [
+      {
+        "question": "What is history?",
+        "answer": "History is the study of past events. It helps us understand how people lived in earlier times.",
+        "topic": "History"
+      },
+{
+"question": "What is a continent?",
+"answer": "A continent is a large landmass on Earth. There are seven continents.",
+"topic": "Geography"
+},
+{
+"question": "What is an ocean current?",
+"answer": "Ocean currents are continuous movements of seawater in a particular direction.",
+"topic": "Geography"
+},
+{
+"question": "What is a local government?",
+"answer": "Local government manages services in towns and villages, like water supply and roads.",
+"topic": "Civics"
+},
+{
+"question": "What is law?",
+"answer": "A law is a rule made by the government that people must follow.",
+"topic": "Civics"
+},
+{
+"question": "What is a dynasty?",
+"answer": "A dynasty is a series of rulers from the same family.",
+"topic": "History"
+},
+{
+"question": "What is trade?",
+"answer": "Trade is the exchange of goods and services between people or countries.",
+"topic": "History"
+},
+{
+"question": "What is a plateau?",
+"answer": "A plateau is a flat land area that is higher than the surrounding land.",
+"topic": "Geography"
+},
+{
+"question": "Explain the concept of latitude and longitude in detail.",
+"answer": "Latitudes and longitudes are imaginary lines used to locate places on Earth. Latitudes run east-west and measure distance from the equator, while longitudes run north-south and measure distance from the Prime Meridian. Together, they form a grid system that helps in identifying exact locations on Earth.",
+"topic": "Geography"
+},
+{
+"question": "Explain the importance of rules and laws in society.",
+"answer": "Rules and laws are important for maintaining order and discipline in society. They ensure safety, protect rights, and help in resolving conflicts. Without rules and laws, there would be chaos and confusion. Governments make laws to ensure fairness and justice for all citizens.",
+"topic": "Civics"
+},
+{
+"question": "Explain the life of early farmers.",
+"answer": "Early farmers began growing crops and domesticating animals instead of hunting and gathering. They settled near rivers for water and fertile land. This led to the development of villages and communities. Farming allowed people to produce surplus food, leading to trade and the growth of civilization.",
+"topic": "History"
+},
+{
+"question": "What is a plain?",
+"answer": "A plain is a large area of flat land, often suitable for farming.",
+"topic": "Geography"
+},
+{
+"question": "What is a desert?",
+"answer": "A desert is a dry area with very little rainfall and sparse vegetation.",
+"topic": "Geography"
+},
+{
+"question": "What is a monarchy?",
+"answer": "A monarchy is a form of government ruled by a king or queen.",
+"topic": "Civics"
+},
+{
+"question": "What is a republic?",
+"answer": "A republic is a form of government where the head of state is elected, not hereditary.",
+"topic": "Civics"
+},
+{
+"question": "What are manuscripts?",
+"answer": "Manuscripts are handwritten records of historical importance.",
+"topic": "History"
+},
+{
+"question": "What is the Prime Meridian?",
+"answer": "The Prime Meridian is the 0-degree longitude line that divides Earth into Eastern and Western Hemispheres.",
+"topic": "Geography"
+},
+{
+"question": "What is weather?",
+"answer": "Weather is the condition of the atmosphere at a particular place and time.",
+"topic": "Geography"
+},
+{
+"question": "What is unity in diversity?",
+"answer": "Unity in diversity means people of different cultures and traditions live together peacefully.",
+"topic": "Civics"
+},
+{
+"question": "What are maps and why are they important? Explain different types of maps and their uses in daily life.",
+"answer": "Maps are representations of the Earth's surface on a flat surface. They help us locate places, understand distances, and learn about physical and political features. There are different types of maps such as political maps (show countries and cities), physical maps (show natural features like mountains and rivers), and thematic maps (show specific information like climate or population). Maps are useful for travel, education, and planning purposes.",
+"topic": "Geography"
+},
+{
+"question": "Explain the concept of democracy and describe its main features and importance in a country like India.",
+"answer": "Democracy is a form of government in which people have the power to elect their leaders. Its main features include equality, freedom, participation, and rule of law. In a democracy, citizens have the right to vote, express opinions, and take part in decision-making. It ensures that the government works for the welfare of the people and protects their rights.",
+"topic": "Civics"
+},
+{
+"question": "What are rights and duties?",
+"answer": "Rights are freedoms given to people, while duties are responsibilities they must follow.",
+"topic": "Civics"
+},
+{
+"question": "What is archaeology?",
+"answer": "Archaeology is the study of past human life through remains like tools, buildings, and fossils.",
+"topic": "History"
+},
+{
+"question": "What are monuments?",
+"answer": "Monuments are structures built to remember important people or events.",
+"topic": "History"
+},
+{
+"question": "What is a globe?",
+"answer": "A globe is a spherical model of the Earth that shows continents, oceans, and countries.",
+"topic": "Geography"
+},
+{
+"question": "What is climate?",
+"answer": "Climate is the average weather condition of a place over a long period.",
+"topic": "Geography"
+},
+{
+"question": "What is democracy?",
+"answer": "Democracy is a form of government where people elect their leaders.",
+"topic": "Civics"
+},
+{
+"question": "What is a community?",
+"answer": "A community is a group of people living together in the same area.",
+"topic": "Civics"
+},
+{
+"question": "What are early humans?",
+"answer": "Early humans were the first people who lived thousands of years ago. They hunted, gathered food, and lived in caves.",
+"topic": "History"
+},
+      {
+        "question": "What is a map?",
+        "answer": "A map is a representation of the Earth on a flat surface. It shows locations, directions, and features.",
+        "topic": "Geography"
+      },
+      {
+        "question": "What are latitudes and longitudes?",
+        "answer": "Latitudes are imaginary horizontal lines, longitudes are vertical lines. They help locate places on Earth.",
+        "topic": "Geography"
+      },
+      {
+        "question": "What is government?",
+        "answer": "Government is a system that makes laws and rules for a country. It ensures order and development.",
+        "topic": "Civics"
+      },
+{
+"question": "What is latitude?",
+"answer": "Latitude lines run east-west and measure distance north or south of the equator.",
+"topic": "Geography"
+},
+{
+"question": "What is longitude?",
+"answer": "Longitude lines run north-south and measure distance east or west of the Prime Meridian.",
+"topic": "Geography"
+},
+{
+"question": "What is the equator?",
+"answer": "The equator is an imaginary line dividing Earth into Northern and Southern Hemispheres.",
+"topic": "Geography"
+},
+{
+"question": "What is equality?",
+"answer": "Equality means everyone has the same rights and opportunities.",
+"topic": "Civics"
+},
+{
+"question": "What is culture?",
+"answer": "Culture includes traditions, customs, language, and lifestyle of people.",
+"topic": "Civics"
+},
+{
+"question": "What are sources of history?",
+"answer": "Sources of history include monuments, coins, manuscripts, and artifacts.",
+"topic": "History"
+},
+{
+"question": "What is a mountain?",
+"answer": "A mountain is a high landform rising above the surrounding area.",
+"topic": "Geography"
+},
+{
+"question": "What is a river?",
+"answer": "A river is a natural flowing water body that usually flows into a sea or ocean.",
+"topic": "Geography"
+},
+{
+"question": "Explain major landforms of the Earth.",
+"answer": "The major landforms of the Earth include mountains, plateaus, and plains. Mountains are high and steep, plateaus are flat-topped elevated areas, and plains are flat lowlands. Each landform has its own characteristics and importance. For example, plains are suitable for agriculture, while mountains provide natural resources and act as barriers.",
+"topic": "Geography"
+},
+{
+"question": "Explain democracy and its features.",
+"answer": "Democracy is a form of government in which people have the power to elect their leaders. Its key features include equality, freedom, participation, and rule of law. Citizens have the right to vote, express opinions, and take part in decision-making. Democracy ensures that the government works for the welfare of the people.",
+"topic": "Civics"
+},
+{
+"question": "Explain the development of early civilizations.",
+"answer": "Early civilizations developed near rivers such as the Indus, Nile, and Tigris-Euphrates. These rivers provided water for drinking, farming, and transportation. People began to settle, practice agriculture, build cities, and develop trade. This led to the growth of complex societies with culture, writing, and governance systems.",
+"topic": "History"
+},
+{
+"question": "What is a valley?",
+"answer": "A valley is a low area between hills or mountains.",
+"topic": "Geography"
+},
+{
+"question": "What is secularism?",
+"answer": "Secularism means all religions are treated equally by the state.",
+"topic": "Civics"
+},
+{
+"question": "What is citizenship?",
+"answer": "Citizenship means being a member of a country with rights and responsibilities.",
+"topic": "Civics"
+},
+{
+"question": "What are inscriptions?",
+"answer": "Inscriptions are writings engraved on stones or metals used as historical sources.",
+"topic": "History"
+},
+      {
+        "question": "What is diversity?",
+        "answer": "Diversity means differences among people in culture, language, religion, and traditions.",
+        "topic": "Civics"
+      },
+{
+"question": "Explain the importance of maps.",
+"answer": "Maps are important tools that represent the Earth's surface on a flat sheet. They help us locate places, understand distances, and learn about physical and political features. There are different types of maps such as political maps, physical maps, and thematic maps. Maps use symbols, scale, and directions to provide information. They are useful in travel, education, and planning.",
+"topic": "Geography"
+},
+{
+"question": "Explain diversity in India.",
+"answer": "India is a country of great diversity. People in India differ in language, religion, culture, food, and clothing. Despite these differences, people live together peacefully, showing unity in diversity. This diversity makes India rich in traditions and heritage. Respecting diversity helps in building harmony and understanding among people.",
+"topic": "Civics"
+},
+{
+"question": "Explain different types of maps.",
+"answer": "Maps are of different types based on their purpose. Political maps show countries, states, and cities. Physical maps show natural features like mountains, rivers, and plains. Thematic maps focus on specific information such as climate, population, or resources. Maps are important tools for understanding geographical information and navigation.",
+"topic": "Geography"
+},
+{
+"question": "Explain the role of government.",
+"answer": "The government is responsible for making laws, maintaining order, and providing services to people. It works for the welfare and development of the country. Governments build roads, provide education, maintain security, and ensure justice. People elect their leaders in a democratic system.",
+"topic": "Civics"
+},
+{
+"question": "Explain the importance of history.",
+"answer": "History helps us understand the past and learn how societies developed over time. It teaches us about important events, cultures, and people. By studying history, we learn from past mistakes and achievements, which helps in building a better future.",
+"topic": "History"
+},
+{
+"question": "Explain in detail the structure of the Earth, including crust, mantle, and core, and their characteristics.",
+"answer": "The Earth is made of three layers: crust, mantle, and core. The crust is the outer layer where we live. The mantle lies below it and is made of hot rocks. The core is the innermost layer and is very hot. These layers affect natural processes like earthquakes and volcanoes.",
+"topic": "Geography"
+},
+{
+"question": "Explain different forms of government, including democracy, monarchy, and republic, with examples.",
+"answer": "Governments can be of different types. Democracy allows people to elect leaders. Monarchy is ruled by a king or queen. Republic has an elected head. Each system has its own features and importance.",
+"topic": "Civics"
+},
+{
+"question": "Explain the importance of diversity and unity in a country like India with examples.",
+"answer": "India has diverse cultures, languages, and religions. Despite differences, people live together peacefully. This unity in diversity strengthens the nation and promotes harmony.",
+"topic": "Civics"
+},
+{
+"question": "Explain the development of early human settlements and the transition from hunting to farming.",
+"answer": "Early humans were hunters and gatherers. Over time, they learned farming and settled near rivers. This led to permanent settlements, development of villages, and growth of civilization.",
+"topic": "History"
+},
+{
+"question": "Explain the concept of continents and oceans in detail, including their names and importance on Earth.",
+"answer": "There are seven continents and five oceans. Continents are large landmasses, while oceans are vast water bodies. They influence climate, trade, and life on Earth.",
+"topic": "Geography"
+},
+{
+"question": "Explain the concept of local government in detail, including its types and functions in rural and urban areas.",
+"answer": "Local government works at village and city levels. Panchayats manage villages, while municipalities manage cities. They provide basic services like water, roads, and sanitation.",
+"topic": "Civics"
+},
+{
+"question": "Explain the structure of Earth including its layers and importance.",
+"answer": "Earth has crust, mantle, and core. Each layer has different properties.",
+"topic": "Geography"
+},
+{
+"question": "Explain continents and oceans with their importance.",
+"answer": "Continents are landmasses and oceans are water bodies affecting climate.",
+"topic": "Geography"
+},
+{
+"question": "Explain maps and their types in detail.",
+"answer": "Maps show Earth's surface. Types include political and physical maps.",
+"topic": "Geography"
+},
+{
+"question": "Explain democracy and its features.",
+"answer": "Democracy allows people to elect leaders and ensures equality.",
+"topic": "Civics"
+},
+{
+"question": "Explain local government and its functions.",
+"answer": "Local government manages services at village and city levels.",
+"topic": "Civics"
+},
+{
+"question": "Explain diversity in India with examples.",
+"answer": "India has diverse cultures but unity among people.",
+"topic": "Civics"
+},
+{
+"question": "Explain early human life and development of civilization.",
+"answer": "Humans evolved from hunters to farmers and built civilizations.",
+"topic": "History"
+},
+{
+"question": "Explain trade and its importance in ancient times.",
+"answer": "Trade helped exchange goods and develop civilizations.",
+"topic": "History"
+},
+{
+"question": "Explain the importance of laws in a democratic country and how they protect citizens.",
+"answer": "Laws ensure order and protect rights. They prevent conflicts and provide justice. In democracy, laws are made for the welfare of people.",
+"topic": "Civics"
+},
+{
+"question": "Explain the development of trade and its importance in ancient civilizations.",
+"answer": "Trade began with barter system and later used money. It helped exchange goods and ideas, leading to growth of civilizations.",
+"topic": "History"
+},
+{
+"question": "Explain early human life.",
+"answer": "Early humans lived thousands of years ago and depended on nature for survival. They were hunters and gatherers who collected food from forests and hunted animals. They used simple tools made of stone and lived in caves or temporary shelters. Over time, they learned farming, making tools, and building permanent homes. This marked the beginning of civilization.",
+"topic": "History"
+}
+    ]
+  }
+}
+
