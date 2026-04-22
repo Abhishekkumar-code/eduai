@@ -35,7 +35,7 @@ app.use("/api/deepfake", deepfakeRoutes);
 app.use("/api/questions", questionRoutes);
 
 // ✅ React Router ke liye — sab routes pe index.html do
-app.use("*", (req, res) => {
+app.use((req, res) => {
   res.sendFile(path.join(__dirname, "../public/index.html"));
 });
 
