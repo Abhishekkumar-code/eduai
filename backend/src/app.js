@@ -1,6 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const dotenv = require("dotenv");
+const path = require("path"); // ✅ Add kiya
 const connectDB = require("./config/database");
 
 dotenv.config();
@@ -12,7 +13,10 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// Routes hai ye
+// ✅ Frontend static files serve karo
+app.use(express.static(path.join(__dirname, "../public")));
+
+// Routes
 const aiRoutes = require("./routes/aiRoutes");
 const offlineRoutes = require("./routes/offlineRoutes");
 const deepfakeRoutes = require("./routes/deepfakeRoutes");
@@ -24,8 +28,8 @@ app.use("/api/deepfake", deepfakeRoutes);
 app.use("/api/questions", questionRoutes);
 
 
-app.get("/", (req, res) => {
-  res.json({ message: "✅ Server is running!" });
-});
+app.use("*name",(req,res)=>{
+    res.sendFile(path.join(__dirname,"..","/public/index.html"))
+})
 
 module.exports = app;

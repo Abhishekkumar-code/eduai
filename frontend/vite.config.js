@@ -26,22 +26,25 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,ico,png,svg,json}'],
         runtimeCaching: [
           {
-            urlPattern: /^http:\/\/localhost:5000\/api\/offline/,
+            // ✅ /api use kiya — localhost hataya
+            urlPattern: /\/api\/offline/,
             handler: 'CacheFirst',
             options: {
               cacheName: 'offline-api-cache',
               expiration: {
                 maxEntries: 200,
-                maxAgeSeconds: 60 * 60 * 24 * 30,
+                maxAgeSeconds: 60 * 60 * 24 * 30, // 30 din
               },
             },
           },
           {
-            urlPattern: /^http:\/\/localhost:5000\/api\/ai/,
+            // ✅ Gemini — sirf net se
+            urlPattern: /\/api\/ai/,
             handler: 'NetworkOnly',
           },
           {
-            urlPattern: /^http:\/\/localhost:5000\/api\/deepfake/,
+            // ✅ Deepfake — sirf net se
+            urlPattern: /\/api\/deepfake/,
             handler: 'NetworkOnly',
           },
         ],
