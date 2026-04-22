@@ -1,13 +1,20 @@
 const express = require("express");
 const cors = require("cors");
 const dotenv = require("dotenv");
-const path = require("path"); // ✅ Add kiya
+const path = require("path");
+const fs = require("fs");
 const connectDB = require("./config/database");
 
 dotenv.config();
 connectDB();
 
 const app = express();
+
+// ✅ Uploads folder auto-create — Render ke liye zaroori
+const uploadsDir = path.join(__dirname, "../uploads");
+if (!fs.existsSync(uploadsDir)) {
+  fs.mkdirSync(uploadsDir, { recursive: true });
+}
 
 app.use(cors());
 app.use(express.json());
@@ -16,7 +23,7 @@ app.use(express.urlencoded({ extended: true }));
 // ✅ Frontend static files serve karo
 app.use(express.static(path.join(__dirname, "../public")));
 
-// Routes
+// ─── Routes ───────────────────────────────────────────────────────────────────
 const aiRoutes = require("./routes/aiRoutes");
 const offlineRoutes = require("./routes/offlineRoutes");
 const deepfakeRoutes = require("./routes/deepfakeRoutes");
@@ -27,9 +34,9 @@ app.use("/api/offline", offlineRoutes);
 app.use("/api/deepfake", deepfakeRoutes);
 app.use("/api/questions", questionRoutes);
 
-
-app.use("*name",(req,res)=>{
-    res.sendFile(path.join(__dirname,"..","/public/index.html"))
-})
+// ✅ React Router ke liye — sab routes pe index.html do
+app.use("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "../public/index.html"));
+});
 
 module.exports = app;

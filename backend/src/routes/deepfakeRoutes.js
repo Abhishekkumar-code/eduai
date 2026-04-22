@@ -2,12 +2,20 @@ const express = require("express");
 const router = express.Router();
 const multer = require("multer");
 const path = require("path");
+const fs = require("fs");
 const { checkDeepfake, getDeepfakeHistory } = require("../controllers/deepfakeController");
 
-// multer for temporey storage of file
+// ✅ Uploads folder absolute path — Render pe bhi kaam karega
+const uploadsDir = path.join(__dirname, "../../uploads");
+
+// ✅ Folder exist nahi toh banao
+if (!fs.existsSync(uploadsDir)) {
+  fs.mkdirSync(uploadsDir, { recursive: true });
+}
+
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
-    cb(null, "uploads/");
+    cb(null, uploadsDir); // ✅ Absolute path
   },
   filename: (req, file, cb) => {
     cb(null, Date.now() + path.extname(file.originalname));
@@ -26,13 +34,10 @@ const fileFilter = (req, file, cb) => {
 const upload = multer({
   storage,
   fileFilter,
-  limits: { fileSize: 5 * 1024 * 1024 }, // 5MB limit
+  limits: { fileSize: 5 * 1024 * 1024 }, // 5MB
 });
 
-// POST /api/deepfake/check - for cheeck agr image ai generated hai to 
 router.post("/check", upload.single("image"), checkDeepfake);
-
-// GET /api/deepfake/history - get history in db 
 router.get("/history", getDeepfakeHistory);
 
 module.exports = router;
